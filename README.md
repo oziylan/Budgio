@@ -23,19 +23,3 @@ Expo / React Navigation
 SQLite
 
 OCR (Text Recognition API)
-
-Victory Charts / Recharts
-
-Context API & Custom Hooks
-
-📈 Future Improvements
-Cloud synchronization (Firebase / Supabase)
-
-AI-powered spending insights
-
-Multi-device support
-
-Exporting reports (PDF / CSV)
-
-🎓 Academic Context
-This project was developed as part of the 2025–2026 academic curriculum, focusing on mobile development, UX/UI design, and financial data processing.
