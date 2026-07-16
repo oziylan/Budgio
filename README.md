@@ -1,4 +1,5 @@
-# 📱 Budgio — Smart Personal Budgeting App (React Native) Budgio is a mobile budgeting application developed in React Native during the 2025–2026 academic year. Inspired by modern banking interfaces, it helps users track expenses, scan receipts using OCR, and manage monthly budgets through intuitive tools and visual dashboards.
+# Budgio — Smart Personal Budgeting App (React Native) 
+## 📱 Budgio is a mobile budgeting application developed in React Native during the 2025–2026 academic year. Inspired by modern banking interfaces, it helps users track expenses, scan receipts using OCR, and manage monthly budgets through intuitive tools and visual dashboards.
 
 ## ✨ Main Features Transaction Management — Add, edit, and delete income/expense entries with customizable categories
 
