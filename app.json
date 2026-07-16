@@ -1,0 +1,61 @@
+{
+  "expo": {
+    "name": "Budgio",
+    "slug": "Budgio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/budgio_logo_2.png",
+    "scheme": "budgio",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/budgio_logo_final.png",
+        "backgroundImage": "./assets/images/budgio_logo_final.png",
+        "monochromeImage": "./assets/images/budgio_logo_2.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.oziylan.Budgio"
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      "expo-sqlite"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "splash": {
+      "image": "./assets/images/budgio_logo_2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1C1F2A"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "052810ec-4196-4f20-981e-99698229761f"
+      }
+    }
+  }
+}
